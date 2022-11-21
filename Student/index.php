@@ -36,6 +36,7 @@ include '../Includes/session.php';
 <body id="page-top">
   <div id="wrapper">
     <!-- Sidebar -->
+       <!-- this is fetch file here we take data from database and show it in students interface -->
    <?php include "Includes/sidebar.php";?>
     <!-- Sidebar -->
     <div id="content-wrapper" class="d-flex flex-column">

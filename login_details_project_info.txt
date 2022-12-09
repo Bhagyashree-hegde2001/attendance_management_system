@@ -1,0 +1,18 @@
+
+**Database Name: attendancemsystem**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Login Details**
+
+Email   : group17@mail.com
+Password: group17
+
+
+**Teacher Login Details**
+
+Email   : sudeepa@mail.com            // see the database file for more
+Password: pass123
+
+**Default password for teacher's account: pass123**
